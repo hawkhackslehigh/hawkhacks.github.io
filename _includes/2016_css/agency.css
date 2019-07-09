@@ -326,7 +326,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: #fff;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -445,7 +445,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: #3cb371;
+    background: #502d0e;
 }
 
 #speakers .speakers-item .speakers-link .speakers-hover:hover {

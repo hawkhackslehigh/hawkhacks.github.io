@@ -35,7 +35,7 @@ nav {
 		line-height: 40px;
 		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 		color: #fff;
-		background: #00283c;
+		background: #000;
 		text-decoration: none;
 	}
 	/*Hover state for top level links*/
@@ -50,7 +50,7 @@ nav {
 	/*Style for dropdown links*/
 	li:hover ul a {
 		background: #f3f3f3;
-		color: #00283c;
+		color: #000;
 		height: 40px;
 		line-height: 40px;
 	}
